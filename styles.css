@@ -6,7 +6,7 @@ body {
 	font: inherit;
 	vertical-align: baseline;
     background-color: #2b323cf1;
-    background-image: linear-gradient(rgba(25, 30, 37, 0.96), rgba(10, 13, 167, 0.96)), url('Space.jpg');
+    background-image: linear-gradient(rgba(25, 30, 37, 0.96), rgba(20, 10, 167, 0.96)), url('Space.jpg');
     background-size: cover;
     background-repeat: no-repeat;   
     background-position: center center;
